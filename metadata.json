@@ -1,0 +1,7 @@
+{
+  "name": "Éthos Escritor",
+  "description": "Uma plataforma de escrita longa e criação de histórias focada em minimalismo e produtividade literária.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
